@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jleehan
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning R and bash
+- 👀 I’m interested in bioinformatics and game development
+- 🧬 I'm a NGS analytical development professional
+- 🌱 I’m currently learning bash, python, lua
 - 📫 How to reach me jleehan1@gmail.com
 
 <!---
